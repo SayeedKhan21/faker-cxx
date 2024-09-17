@@ -1,8 +1,7 @@
 var searchData=
 [
-  ['unit_0',['unit',['../classfaker_1_1Science.html#a1603947449ecc5b7bc31f5a4bbc4cc97',1,'faker::Science']]],
-  ['url_1',['url',['../classfaker_1_1Internet.html#a5e1681677a509194597848cd44f9a2e7',1,'faker::Internet']]],
-  ['username_2',['username',['../classfaker_1_1Internet.html#ae4ab9735869c62cf258089f0cd741f83',1,'faker::Internet']]],
-  ['uuid_3',['uuid',['../classfaker_1_1String.html#a24034056c03b01f957e2408cdc6d63d2',1,'faker::String']]],
-  ['uvindex_4',['uvIndex',['../classfaker_1_1Weather.html#af08c719eb777ac717955d58a817f6cc4',1,'faker::Weather']]]
+  ['unit_0',['unit',['../namespacefaker_1_1science.html#af5ca292f992a9807b390a4a61c35eeeb',1,'faker::science']]],
+  ['url_1',['url',['../namespacefaker_1_1internet.html#a005caa05149d90b3854aef6a4ccdf27e',1,'faker::internet']]],
+  ['username_2',['username',['../namespacefaker_1_1internet.html#aaf73c938f7c6cf8f8ecbbeb0636b67c3',1,'faker::internet']]],
+  ['uuid_3',['uuid',['../namespacefaker_1_1string.html#a335d7aad191429aa88bed20818881d95',1,'faker::string']]]
 ];

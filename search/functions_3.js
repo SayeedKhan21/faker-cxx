@@ -1,15 +1,16 @@
 var searchData=
 [
-  ['decimal_0',['decimal',['../classfaker_1_1Number.html#a2036ee4645d66c821f7a48896350cea0',1,'faker::Number::decimal(F min, F max)'],['../classfaker_1_1Number.html#a9a9186f41b3b8a3e34452ca0f23f0f96',1,'faker::Number::decimal(F max)']]],
-  ['department_1',['department',['../classfaker_1_1Commerce.html#a1b26450fb0c141e45d16d785177a5658',1,'faker::Commerce']]],
-  ['dimensions_2',['dimensions',['../classfaker_1_1Image.html#a2537363511977a287671b2881210e863',1,'faker::Image']]],
-  ['direction_3',['direction',['../classfaker_1_1Location.html#abffa6c9118be753b0f5bdeeb04177a25',1,'faker::Location']]],
-  ['director_4',['director',['../classfaker_1_1Movie.html#a5d32b5391b4f2bed519a09fc82fe2baa',1,'faker::Movie']]],
-  ['directorypath_5',['directoryPath',['../classfaker_1_1System.html#af362c5f4a0b869760dc49431227e0029',1,'faker::System']]],
-  ['dishname_6',['dishName',['../classfaker_1_1Food.html#a68a96c6dee2a6a23907ab0478498b773',1,'faker::Food']]],
-  ['distanceunit_7',['distanceUnit',['../classfaker_1_1Science.html#ab42a1c8263c0a0f2f74c6db5fcccd134',1,'faker::Science']]],
-  ['dog_8',['dog',['../classfaker_1_1Animal.html#a542d239f0a60a877407a147ef45c1dd4',1,'faker::Animal']]],
-  ['domainname_9',['domainName',['../classfaker_1_1Internet.html#a0ea6cb024c64493e473d7b2ffe624623',1,'faker::Internet']]],
-  ['domainsuffix_10',['domainSuffix',['../classfaker_1_1Internet.html#a37f2c674c23e72832384258558c5e47f',1,'faker::Internet']]],
-  ['domainword_11',['domainWord',['../classfaker_1_1Internet.html#a199a6c56acd69f45f07315669ebe0111',1,'faker::Internet']]]
+  ['dayofmonth_0',['dayOfMonth',['../namespacefaker_1_1date.html#a2f69901ef0b2b4882da4b46a971218cc',1,'faker::date']]],
+  ['dayofweek_1',['dayOfWeek',['../namespacefaker_1_1date.html#a845e23281b58f0068e14c225cb90afd9',1,'faker::date']]],
+  ['department_2',['department',['../namespacefaker_1_1commerce.html#aa827bdcf2a4e231ef3cbc4acf919f3d7',1,'faker::commerce']]],
+  ['direction_3',['direction',['../namespacefaker_1_1location.html#ad7add8bde67bede1c36d3834cb7fc463',1,'faker::location']]],
+  ['director_4',['director',['../namespacefaker_1_1movie.html#ade9b515fd1f418beaae0de18c6b5f5d0',1,'faker::movie']]],
+  ['directorypath_5',['directoryPath',['../namespacefaker_1_1system.html#a853ea09c9fb8b8c03fda5c0ed1d29086',1,'faker::system']]],
+  ['discounttype_6',['discountType',['../namespacefaker_1_1commerce.html#a3963d6ad53009787e4c657207c8c02aa',1,'faker::commerce']]],
+  ['dishname_7',['dishName',['../namespacefaker_1_1food.html#a342e20d575c9e53b2fff85f9c9744e57',1,'faker::food']]],
+  ['distanceunit_8',['distanceUnit',['../namespacefaker_1_1science.html#a04050890c20bc122855fdfa076021466',1,'faker::science']]],
+  ['dog_9',['dog',['../namespacefaker_1_1animal.html#ac9fadd9047d359167a80c26a072d3c83',1,'faker::animal']]],
+  ['domainname_10',['domainName',['../namespacefaker_1_1internet.html#a7233a627869287ae8dc81a1dd8324fd2',1,'faker::internet']]],
+  ['domainsuffix_11',['domainSuffix',['../namespacefaker_1_1internet.html#a9332c1bd3d5fb1111e2fcc5fa04131a7',1,'faker::internet']]],
+  ['domainword_12',['domainWord',['../namespacefaker_1_1internet.html#a49fa76d8f033206ed91f965fd625b2cf',1,'faker::internet']]]
 ];

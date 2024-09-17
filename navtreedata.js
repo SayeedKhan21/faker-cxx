@@ -25,15 +25,40 @@
 var NAVTREE =
 [
   [ "Faker C++", "index.html", [
-    [ "API", "annotated.html", [
-      [ "Modules", "annotated.html", "annotated_dup" ]
+    [ "Namespaces", "namespaces.html", [
+      [ "Namespace List", "namespaces.html", "namespaces_dup" ],
+      [ "Namespace Members", "namespacemembers.html", [
+        [ "All", "namespacemembers.html", "namespacemembers_dup" ],
+        [ "Functions", "namespacemembers_func.html", "namespacemembers_func" ],
+        [ "Typedefs", "namespacemembers_type.html", null ],
+        [ "Enumerations", "namespacemembers_enum.html", null ]
+      ] ]
+    ] ],
+    [ "Concepts", "concepts.html", "concepts" ],
+    [ "Classes", "annotated.html", [
+      [ "Class List", "annotated.html", "annotated_dup" ],
+      [ "Class Index", "classes.html", null ],
+      [ "Class Members", "functions.html", [
+        [ "All", "functions.html", null ],
+        [ "Functions", "functions_func.html", null ],
+        [ "Variables", "functions_vars.html", null ]
+      ] ]
+    ] ],
+    [ "Files", "files.html", [
+      [ "File List", "files.html", "files_dup" ]
     ] ]
   ] ]
 ];
 
 var NAVTREEINDEX =
 [
-"annotated.html"
+"airline_8h.html",
+"internet_8h.html#a18bb9341e2a6b1745f93bb56acf973ea",
+"namespacefaker_1_1food.html#a7ab3916e74c59914e97c64334821e5c7",
+"namespacefaker_1_1phone.html#af67e35b39f2987b4ed513541c7425a0aa6cd50fb3091b0a9d3c1ac2cf52441390",
+"namespacemembers_func_n.html",
+"phone_8h.html#af67e35b39f2987b4ed513541c7425a0aacec565bb29200fdbe4ae533ec88cf124",
+"word_8h.html#af0f10fe34e975d361fd1d286d5073cc2"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

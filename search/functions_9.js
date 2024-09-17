@@ -1,8 +1,7 @@
 var searchData=
 [
-  ['jobarea_0',['jobArea',['../classfaker_1_1Person.html#a13c338bc22ec318a716cccc262f2a058',1,'faker::Person']]],
-  ['jobdescriptor_1',['jobDescriptor',['../classfaker_1_1Person.html#ab0e3138fe0416b97219b0815d3de5e29',1,'faker::Person']]],
-  ['jobtitle_2',['jobTitle',['../classfaker_1_1Person.html#ad9a483f0c91fd2e31b35872aa2d669bc',1,'faker::Person']]],
-  ['jobtype_3',['jobType',['../classfaker_1_1Person.html#a52c0cc839ae71e5df637137becdad8ef',1,'faker::Person']]],
-  ['json_4',['json',['../classfaker_1_1Structure.html#a108de9706f705a6a9fd63f250e4b568a',1,'faker::Structure']]]
+  ['jobarea_0',['jobArea',['../namespacefaker_1_1person.html#aa58e33aa6e056a200de1d94f7af80e31',1,'faker::person']]],
+  ['jobdescriptor_1',['jobDescriptor',['../namespacefaker_1_1person.html#a4076a7788b7715cdd889f1fe23b66c17',1,'faker::person']]],
+  ['jobtitle_2',['jobTitle',['../namespacefaker_1_1person.html#aed588e01226bc0ba073dbf0e1e6cf96f',1,'faker::person']]],
+  ['jobtype_3',['jobType',['../namespacefaker_1_1person.html#a12dbe0569b391994f9f3fd1207f688fc',1,'faker::person']]]
 ];
